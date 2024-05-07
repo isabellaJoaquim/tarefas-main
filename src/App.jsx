@@ -10,6 +10,7 @@ import Rodape from './componentes/MeusComponentes/Rodape'
 function App() {
   const [count, setCount] = useState(0)
 
+//retorno da função que é visualização do componente
   return (
     <>
       <div>
